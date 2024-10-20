@@ -1,0 +1,15 @@
+{
+    "name": "amarc/custom_php",
+    "authors": [
+        {
+            "name": "InterMaus1154",
+            "email": "amarco1154@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "App/Autoload/globals.php"
+        ]
+    }
+}
